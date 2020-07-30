@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\bin\Release\Case1.exe.config
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\bin\Release\Case1.exe
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\bin\Release\Case1.pdb
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\obj\Release\Case1.Form1.resources
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\obj\Release\Case1.Properties.Resources.resources
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\obj\Release\Case1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\obj\Release\Case1.exe
+C:\Users\User\Desktop\Большая перемена\Приложение\Case1\Case1\obj\Release\Case1.pdb

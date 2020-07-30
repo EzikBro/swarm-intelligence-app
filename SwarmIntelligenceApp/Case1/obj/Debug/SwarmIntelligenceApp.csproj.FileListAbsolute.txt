@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\bin\Debug\Case1.exe.config
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\bin\Debug\Case1.exe
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\bin\Debug\Case1.pdb
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\SwarmIntelligenceApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\Case1.MainForm.resources
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\Case1.Properties.Resources.resources
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\SwarmIntelligenceApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\Case1.exe
+C:\Users\User\Desktop\Большая перемена\5\Приложение\SwarmIntelligenceApp\Case1\obj\Debug\Case1.pdb

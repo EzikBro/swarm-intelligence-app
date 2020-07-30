@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.Properties.Resources.resources
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Case1\Case1\bin\Debug\Case1.exe.config
+C:\Users\User\source\repos\Case1\Case1\bin\Debug\Case1.exe
+C:\Users\User\source\repos\Case1\Case1\bin\Debug\Case1.pdb
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.exe
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.pdb
+C:\Users\User\source\repos\Case1\Case1\obj\Debug\Case1.Form1.resources
